@@ -1,2 +1,4 @@
 # Twitter-Sentimental-Analysis
-Analyzed the sentiments of tweets and categorized them as negative, neutral and positive sentiments using NLP
+Developed a project using Natural Language Processing and used Twitter
+API to get the data and analyzed the positive, negative and neutral sentiments on different topics, events,
+products,etc.
